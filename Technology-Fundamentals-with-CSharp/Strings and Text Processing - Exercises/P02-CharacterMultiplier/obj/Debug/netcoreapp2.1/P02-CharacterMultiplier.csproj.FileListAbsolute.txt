@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\bin\Debug\netcoreapp2.1\P02-CharacterMultiplier.deps.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\bin\Debug\netcoreapp2.1\P02-CharacterMultiplier.runtimeconfig.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\bin\Debug\netcoreapp2.1\P02-CharacterMultiplier.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\bin\Debug\netcoreapp2.1\P02-CharacterMultiplier.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\bin\Debug\netcoreapp2.1\P02-CharacterMultiplier.pdb
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P02-CharacterMultiplier\obj\Debug\netcoreapp2.1\P02-CharacterMultiplier.pdb

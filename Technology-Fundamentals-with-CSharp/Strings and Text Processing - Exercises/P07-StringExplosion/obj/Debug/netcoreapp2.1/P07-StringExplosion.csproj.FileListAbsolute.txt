@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\bin\Debug\netcoreapp2.1\P07-StringExplosion.deps.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\bin\Debug\netcoreapp2.1\P07-StringExplosion.runtimeconfig.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\bin\Debug\netcoreapp2.1\P07-StringExplosion.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\bin\Debug\netcoreapp2.1\P07-StringExplosion.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\bin\Debug\netcoreapp2.1\P07-StringExplosion.pdb
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P07-StringExplosion\obj\Debug\netcoreapp2.1\P07-StringExplosion.pdb

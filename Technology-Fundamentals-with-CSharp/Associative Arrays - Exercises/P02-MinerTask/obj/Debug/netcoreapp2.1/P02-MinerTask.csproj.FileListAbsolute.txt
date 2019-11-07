@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\bin\Debug\netcoreapp2.1\P02-MinerTask.deps.json
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\bin\Debug\netcoreapp2.1\P02-MinerTask.runtimeconfig.json
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\bin\Debug\netcoreapp2.1\P02-MinerTask.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\bin\Debug\netcoreapp2.1\P02-MinerTask.dll
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\bin\Debug\netcoreapp2.1\P02-MinerTask.pdb
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.dll
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.pdb
+D:\Projects\Tech Module 2018\06-associative-arrays-exercises\P02-MinerTask\obj\Debug\netcoreapp2.1\P02-MinerTask.csprojAssemblyReference.cache

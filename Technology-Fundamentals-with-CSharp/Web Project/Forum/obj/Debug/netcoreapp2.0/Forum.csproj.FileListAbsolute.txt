@@ -1,0 +1,24 @@
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.deps.json
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.dll
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.dll
+C:\Users\Galin\Desktop\Skeleton\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.pdb
+D:\Projects\Tech Module 2018\11-web-project\Forum\bin\Debug\netcoreapp2.0\Forum.deps.json
+D:\Projects\Tech Module 2018\11-web-project\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+D:\Projects\Tech Module 2018\11-web-project\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\11-web-project\Forum\bin\Debug\netcoreapp2.0\Forum.dll
+D:\Projects\Tech Module 2018\11-web-project\Forum\bin\Debug\netcoreapp2.0\Forum.pdb
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.dll
+D:\Projects\Tech Module 2018\11-web-project\Forum\obj\Debug\netcoreapp2.0\Forum.pdb

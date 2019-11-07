@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\bin\Debug\netcoreapp2.1\P03-Zig-ZagArrays.deps.json
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\bin\Debug\netcoreapp2.1\P03-Zig-ZagArrays.runtimeconfig.json
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\bin\Debug\netcoreapp2.1\P03-Zig-ZagArrays.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\bin\Debug\netcoreapp2.1\P03-Zig-ZagArrays.dll
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\bin\Debug\netcoreapp2.1\P03-Zig-ZagArrays.pdb
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.dll
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.pdb
+D:\Projects\Tech Module 2018\03-arrays-exercises\P03-Zig-ZagArrays\obj\Debug\netcoreapp2.1\P03-Zig-ZagArrays.csprojAssemblyReference.cache

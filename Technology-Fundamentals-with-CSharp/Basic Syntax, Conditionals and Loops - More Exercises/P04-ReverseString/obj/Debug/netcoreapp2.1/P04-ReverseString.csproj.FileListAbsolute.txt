@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\bin\Debug\netcoreapp2.1\P04-ReverseString.deps.json
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\bin\Debug\netcoreapp2.1\P04-ReverseString.runtimeconfig.json
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\bin\Debug\netcoreapp2.1\P04-ReverseString.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\bin\Debug\netcoreapp2.1\P04-ReverseString.dll
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\bin\Debug\netcoreapp2.1\P04-ReverseString.pdb
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.dll
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.pdb
+D:\Projects\Tech Module 2018\01-introduction-more-exercises\P04-ReverseString\obj\Debug\netcoreapp2.1\P04-ReverseString.csprojAssemblyReference.cache

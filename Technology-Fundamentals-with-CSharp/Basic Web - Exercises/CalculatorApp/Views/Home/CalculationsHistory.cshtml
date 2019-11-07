@@ -1,0 +1,34 @@
+﻿@model List<CalculatorApp.Models.Calculator>
+
+@{
+    ViewBag.Title = "Calculations History";
+}
+
+<h1>ViewBag.Title</h1>
+
+@foreach (var calculation in Model)
+{
+    <div class="container">
+
+        <div class="col-sm-2">
+            <input value="@calculation.LeftOperand" readonly />
+        </div>
+
+        <div class="col-sm-1">
+            @calculation.Operator
+        </div>
+
+        <div class="col-sm-2">
+            <input value="@calculation.RightOperand" readonly />
+        </div>
+
+        <div class="col-sm-1">
+            <p>=</p>
+        </div>
+
+        <div class="col-sm-2">
+            <input value="@calculation.Result" readonly />
+        </div>
+
+    </div>
+}

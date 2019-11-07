@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\bin\Debug\netcoreapp2.1\P05-MultiplyBigNumber.deps.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\bin\Debug\netcoreapp2.1\P05-MultiplyBigNumber.runtimeconfig.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\bin\Debug\netcoreapp2.1\P05-MultiplyBigNumber.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\bin\Debug\netcoreapp2.1\P05-MultiplyBigNumber.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\bin\Debug\netcoreapp2.1\P05-MultiplyBigNumber.pdb
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.pdb
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-exercises\P05-MultiplyBigNumber\obj\Debug\netcoreapp2.1\P05-MultiplyBigNumber.csprojAssemblyReference.cache

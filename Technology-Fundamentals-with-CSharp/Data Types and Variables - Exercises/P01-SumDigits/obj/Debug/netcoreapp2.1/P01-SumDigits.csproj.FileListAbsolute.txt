@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\bin\Debug\netcoreapp2.1\P01-SumDigits.deps.json
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\bin\Debug\netcoreapp2.1\P01-SumDigits.runtimeconfig.json
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\bin\Debug\netcoreapp2.1\P01-SumDigits.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\bin\Debug\netcoreapp2.1\P01-SumDigits.dll
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\bin\Debug\netcoreapp2.1\P01-SumDigits.pdb
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.dll
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.pdb
+D:\Projects\Tech Module 2018\02-data-types-and-variables-exercises\P01-SumDigits\obj\Debug\netcoreapp2.1\P01-SumDigits.csprojAssemblyReference.cache

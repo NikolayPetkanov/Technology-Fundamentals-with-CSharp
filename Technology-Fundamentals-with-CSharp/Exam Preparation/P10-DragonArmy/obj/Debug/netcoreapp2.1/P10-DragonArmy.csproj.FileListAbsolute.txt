@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\bin\Debug\netcoreapp2.1\P10-DragonArmy.deps.json
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\bin\Debug\netcoreapp2.1\P10-DragonArmy.runtimeconfig.json
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\bin\Debug\netcoreapp2.1\P10-DragonArmy.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\bin\Debug\netcoreapp2.1\P10-DragonArmy.dll
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\bin\Debug\netcoreapp2.1\P10-DragonArmy.pdb
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.dll
+D:\Projects\Tech Module 2018\exam-preparation\P10-DragonArmy\obj\Debug\netcoreapp2.1\P10-DragonArmy.pdb

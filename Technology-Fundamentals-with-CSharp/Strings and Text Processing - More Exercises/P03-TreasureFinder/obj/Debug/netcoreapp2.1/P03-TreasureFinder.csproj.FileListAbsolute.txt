@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\bin\Debug\netcoreapp2.1\P03-TreasureFinder.deps.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\bin\Debug\netcoreapp2.1\P03-TreasureFinder.runtimeconfig.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\bin\Debug\netcoreapp2.1\P03-TreasureFinder.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\bin\Debug\netcoreapp2.1\P03-TreasureFinder.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\bin\Debug\netcoreapp2.1\P03-TreasureFinder.pdb
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.dll
+D:\Projects\Tech Module 2018\08-strings-and-text-processing-more-exercises\P03-TreasureFinder\obj\Debug\netcoreapp2.1\P03-TreasureFinder.pdb

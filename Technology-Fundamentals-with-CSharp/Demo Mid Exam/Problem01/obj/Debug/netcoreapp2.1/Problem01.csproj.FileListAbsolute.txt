@@ -1,0 +1,11 @@
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\bin\Debug\netcoreapp2.1\Problem01.deps.json
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\bin\Debug\netcoreapp2.1\Problem01.runtimeconfig.json
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\bin\Debug\netcoreapp2.1\Problem01.runtimeconfig.dev.json
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\bin\Debug\netcoreapp2.1\Problem01.dll
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\bin\Debug\netcoreapp2.1\Problem01.pdb
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.csprojAssemblyReference.cache
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.csproj.CoreCompileInputs.cache
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.AssemblyInfoInputs.cache
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.AssemblyInfo.cs
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.dll
+D:\Projects\Tech Module 2018\demod-technology-fundamentals-mid-exam-27.10\Problem01\obj\Debug\netcoreapp2.1\Problem01.pdb
